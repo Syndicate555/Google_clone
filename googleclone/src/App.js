@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div >
-     React App
+     <h1>Lets build the google clone</h1>
     </div>
   );
 }
